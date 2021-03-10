@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python I'm glad my wife Kristy likes your store so much 
 # -*- coding: utf-8 -*-
 
 import sys, os, re, string, urllib
